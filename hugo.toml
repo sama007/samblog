@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-=======
 baseURL = 'https://samblog.pages.dev/'
 languageCode = 'en-us'
 title = 'Sam\'s Personal Blog'
->>>>>>> b2d5645 (First commit for blog)
 theme = 'ananke'
