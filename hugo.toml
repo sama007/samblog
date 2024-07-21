@@ -1,4 +1,4 @@
 baseURL = 'https://samblog.pages.dev/'
 languageCode = 'en-us'
-title = 'Sam\'s Personal Blog'
+title = 'Sams Personal Blog'
 theme = 'ananke'
