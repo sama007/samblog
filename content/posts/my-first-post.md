@@ -6,6 +6,4 @@ draft = false
 
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+Hello!!! I am Samadrito Mandal. This is my first test blog.
