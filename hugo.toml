@@ -1,6 +1,6 @@
 baseURL = 'https://sama007.github.io/'
 languageCode = 'en-us'
-title = 'Sam\'s Blog'
+title = "Sam's Blog"
 theme = 'ananke'
 [caches]
   [caches.images]
